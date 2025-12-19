@@ -1,8 +1,5 @@
 # nfl-under-pressure
 
-## nfl-under-pressure
-
-# 🏈 NFL Under Pressure  
 ### How High-Stakes Decisions Shape Outcomes
 
 ---
