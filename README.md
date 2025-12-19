@@ -154,7 +154,5 @@ Potential extensions of this project include:
 - Fourth-down decision-making analysis
 - Studying how risk tolerance changes over time
 - Applying the framework to other industries or domains
-
-Studying how risk tolerance changes over time
-
-Extending the framework to other sports or industries
+- Studying how risk tolerance changes over time
+- Extending the framework to other sports or industries
